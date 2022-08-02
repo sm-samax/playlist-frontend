@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="8.4667mm" height="8.4667mm" version="1.1" viewBox="0 0 8.4667 8.4667" xmlns="http://www.w3.org/2000/svg">
+ <g transform="translate(-16.173 -26.833)">
+  <g transform="matrix(.1745 0 0 .1745 14.377 19.521)" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.3229">
+   <rect x="10.292" y="58.077" width="48.52" height="16.173" ry="1.3554"/>
+   <rect transform="rotate(90)" x="41.903" y="-42.639" width="48.52" height="16.173" ry="1.3554"/>
+  </g>
+ </g>
+</svg>

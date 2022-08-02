@@ -1,0 +1,38 @@
+.recf {
+  display: flex;
+  flex-direction: row;
+  gap: 15px;
+  padding: 15px;
+  margin-bottom: 10px;
+  background-color: var(--main-bg-color);
+  border-radius: 360px;
+}
+
+.recf p,
+.recf button {
+  display: block;
+  border: none;
+  padding: 5px;
+  border-radius: 360px;
+  background-color: white;
+}
+
+.recf p {
+  text-align: center;
+  font-size: 16pt;
+}
+
+.recf .alr {
+  margin-left: auto;
+  display: flex;
+  gap: 10px;
+}
+
+.recf button:hover {
+  fill: var(--main-contrast-color);
+}
+
+.recf .ico {
+  cursor: pointer;
+  overflow: hidden;
+}

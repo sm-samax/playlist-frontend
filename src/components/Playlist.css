@@ -1,0 +1,49 @@
+.pl {
+  display: inline-block;
+  padding: 2.5vw;
+}
+
+.add {
+  padding: 10px;
+  margin-bottom: 10px;
+  background-color: var(--main-bg-color);
+  display: flex;
+  gap: 10px;
+  align-items: center;
+  border-radius: 360px;
+  font-size: 16pt;
+}
+
+.add button {
+  cursor: pointer;
+  border: none;
+  background-color: transparent;
+}
+
+.add button:hover {
+  fill: white;
+}
+
+.add input {
+  border-radius: 360px;
+  padding: 5px;
+  border: none;
+}
+
+.add input:focus {
+  outline: solid 2px var(--main-emph-color);
+}
+
+.g-wrap {
+  display: flex;
+  padding: 10px;
+  gap: 10px;
+  background-color: var(--main-contrast-color);
+  border-radius: 360px;
+  align-items: center;
+}
+
+.list {
+  display: flex;
+  flex-direction: column;
+}
